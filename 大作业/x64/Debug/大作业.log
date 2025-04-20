@@ -1,0 +1,11 @@
+﻿  system.cpp
+D:\c语言\大作业\system.cpp(34,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\大作业\system.cpp(35,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\大作业\system.cpp(75,20): warning C4244: “return”: 从“const _Ty”转换到“int”，可能丢失数据
+D:\c语言\大作业\system.cpp(75,20): warning C4244:         with
+D:\c语言\大作业\system.cpp(75,20): warning C4244:         [
+D:\c语言\大作业\system.cpp(75,20): warning C4244:             _Ty=double
+D:\c语言\大作业\system.cpp(75,20): warning C4244:         ]
+D:\c语言\大作业\system.cpp(131,1): warning C4715: “Matrix::operator+”: 不是所有的控件路径都返回值
+D:\c语言\大作业\system.cpp(162,1): warning C4715: “Matrix::operator-”: 不是所有的控件路径都返回值
+  大作业.vcxproj -> D:\c语言\大作业\x64\Debug\大作业.exe
